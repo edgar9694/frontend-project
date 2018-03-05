@@ -1,0 +1,13 @@
+stylus <nombre del archivo>.css -w
+  para compilar el archivo cada vez que se guarda
+
+stylus <nombre del archivo>.css -c
+  para compactar el archivo
+
+
+instalar nib que es un plugin de stylus para los prefijos de los navegadores
+
+stylus -u nib para usar nib cada vez que usemos a styluss
+
+
+de la carpeta CLASE 1 INTRODUCCION falta el video "Preguntas y respuestas - Clase 1 - 2G.mp4"
