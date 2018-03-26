@@ -11,3 +11,25 @@ stylus -u nib para usar nib cada vez que usemos a styluss
 
 
 de la carpeta CLASE 1 INTRODUCCION falta el video "Preguntas y respuestas - Clase 1 - 2G.mp4"
+
+
+
+
+
+
+
+clase 2 Segunda Generacion
+
+"block" : las cajas siempre ocupan el 100% del ancho
+
+
+el objeto que tiene position absolute, buscara al primer contenedor que tenga position relative y lo fijara como su centro de coordenadas, si no hay ninguno tomara como referencia el body
+
+con overflow hidden cuando se usa float se hace pequeña la caja de los elementos esta le obliga al generador a calcular el alto de los elemento  colocarles una caja o ocultarlos si no se ven
+
+
+before y after herramientas para crear pseudo objetos
+& para colocarle al elemento css el atributo al lado del signo
+
+
+01:08:40
