@@ -32,4 +32,7 @@ before y after herramientas para crear pseudo objetos
 & para colocarle al elemento css el atributo al lado del signo
 
 
-01:08:40
+iconos basados en fuentes
+  icomoon.io
+
+01:26:00
