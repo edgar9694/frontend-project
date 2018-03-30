@@ -35,4 +35,5 @@ before y after herramientas para crear pseudo objetos
 iconos basados en fuentes
   icomoon.io
 
-01:26:00
+
+caniuse.com para ver las compatibilidades de las propiedades con los navegadores
