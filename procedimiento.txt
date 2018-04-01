@@ -37,3 +37,8 @@ iconos basados en fuentes
 
 
 caniuse.com para ver las compatibilidades de las propiedades con los navegadores
+
+
+para hacer un salto de linea en un string en javascript usar \
+
+al escribir debugger en javascript se detiene el navegador y muestra el estado de las variables

@@ -13,6 +13,7 @@ body {
   color: #444;
   font-family: Arial;
   font-size: 16px;
+  transition: font-size 1s;
 }
 footer {
   background: #dd5f24;
@@ -32,6 +33,14 @@ footer h3 strong {
 footer h3 .mejor:before,
 footer h3 .mejor:after {
   content: "-";
+}
+form {
+  padding: 0.8em;
+  display: none;
+}
+form label {
+  display: inline-block;
+  width: 60px;
 }
 header {
   background: #444;
@@ -75,6 +84,9 @@ header .titular .publicar:before {
   font-family: "iconos";
   content: "\e908";
   margin: 0 3px 0 0;
+}
+header .titular .sizer {
+  text-decoration: none;
 }
 header .titular .titulo {
   font-size: 18px;
@@ -224,7 +236,7 @@ nav .menu li a {
 }
 .posts .post .descripcion .detalles .titulo {
   color: #444;
-  font-size: 18px;
+  font-size: 1.1em;
   font-style: italic;
   margin: 0;
   padding: 0.5em 0.5em 0 0;
